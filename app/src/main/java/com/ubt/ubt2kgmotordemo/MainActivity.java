@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 import com.ubt.ip.sdk.api.MotorApi;
+import com.ubt.ip.sdk.bean.MotorBean;
 
 import java.util.Arrays;
 
